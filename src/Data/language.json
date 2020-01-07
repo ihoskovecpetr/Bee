@@ -1,0 +1,15 @@
+{
+  "id": "ID",
+  "name": "Název",
+  "campaign_name": "Název kampaně",
+  "adgroup_name": "zařazení",
+  "created_at": "Vytvořeno",
+  "updated_at": "Naposledy upraveno",
+  "type": "Typ kampaně",
+  "adwords_status": "Status",
+  "items_count": "Počet položek",
+  "_product_id_": "Produkt 1",
+  "SearchCampaign": "Search",
+  "SmartDisplayCampaign": "Smart Display",
+  "DSACampaign": "DSA"
+}
